@@ -20,7 +20,8 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
 </head>
 <body>
 	<div class="container">
-		<table cellspacing="0" cellpadding="10" class="table table-bordered">
+		<h1>Tabel Mahasiswa</h1>
+		<table cellspacing="0" cellpadding="10" class="table align-middle table-bordered">
 			<tr>
 				<th>No.</th>
 				<th>NIM</th>
